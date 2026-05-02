@@ -12,3 +12,6 @@ A high-performance, sharded crypto/stock matching engine built with Java 21 and 
 
 ## Performance
 The engine is designed to handle thousands of orders per second per symbol by isolating the matching logic from I/O tasks.
+
+## License
+MIT License
